@@ -1,8 +1,11 @@
 # Hello
 
 ## testing
+Test Tool: JUnit 
 
-unit test
+Test Types:
+- unit test
+- integration test
 ```
 node src/tests
 ```
@@ -10,3 +13,7 @@ node src/tests
 ```
 node src
 ```
+## Computer
+
+## HI 
+
